@@ -40,14 +40,14 @@
     "tags": ["minecraft", "bedrock", "spectator mode", "tutorial", "hindi"]
   },
   {
-    "id": "redstone-tutorial",
-    "title": "Ultimate RedsBedwars Tutorial for Beginners",
-    "description": "Learn the fundamentals of redstone in this comprehensive tutorial. We'll cover basic circuits, logic gates, and build some simple but useful contraptions together. No prior redstone knowledge required!",
-    "category": "tutorials",
-    "thumbnail": "./assets/images/video-tutorial-1.jpg",
-    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "date": "2024-01-10",
-    "tags": ["redstone", "tutorial", "beginner", "circuits"]
+    "id": "minecraft-dark-ui-pack",
+    "title": "Dark UI for Minecraft: Don't Miss 😳",
+    "description": "Is video mein Minecraft Bedrock Edition (1.19 & 1.20) ke liye ek amazing Dark UI resource pack ka showcase kiya gaya hai. Ye pack game ke interface ko ek clean aur professional dark look deta hai.",
+    "category": "minecraft",
+    "thumbnail": "./assets/images/aAGNYeKEWNg-SD.jpg",
+    "youtube": "https://www.youtube.com/watch?v=aAGNYeKEWNg",
+    "date": "2023-07-02",
+    "tags": ["minecraft", "dark ui", "resource pack", "bedrock", "tutorial"]
   },
   {
     "id": "saturn-client-minecraft",
