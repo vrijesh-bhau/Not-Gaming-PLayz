@@ -1,13 +1,13 @@
 [
-  {
-    "id": "epic-survival-base",
-    "title": "My Base",
-    "description": "Mujhe join karo Mai build an incredible survival base from scratch! In this video, we'll go from a simple starter house to a fully functional fortress with farms, storage systems, and more. Perfect for beginners and experienced players alike.",
+ {
+    "id": "epic-pvp-texture-packs",
+    "title": "Epic PvP Texture Packs for Winners! 🏆",
+    "description": "Is video mein Minecraft ke liye best PvP texture packs showcase kiye gaye hain. In packs se aapki weapons aur armor ki look bilkul badal jayegi, jo aapko game jeetne mein madad karegi.",
     "category": "minecraft",
-    "thumbnail": "./assets/images/video-minecraft-1.jpg",
-    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "date": "2024-01-15",
-    "tags": ["survival", "building", "base", "tutorial"]
+    "thumbnail": "./assets/images/MTexture-pack-1.jpg",
+    "youtube": "https://www.youtube.com/watch?v=BZp4En9A3ec",
+    "date": "2026-03-02",
+    "tags": ["minecraft", "texture pack", "pvp", "showcase"]
   },
   {
     "id": "minecraft-night-vision",
