@@ -4,42 +4,12 @@
     "title": "Epic PvP Texture Packs for Winners! 🏆",
     "description": "Is video mein Minecraft ke liye best PvP texture packs showcase kiye gaye hain. In packs se aapki weapons aur armor ki look bilkul badal jayegi, jo aapko game jeetne mein madad karegi.",
     "category": "minecraft",
-    "thumbnail": "./assets/images/MTexture-pack-1.jpg",
+    "thumbnail": "/assets/images/MTexture-pack-1.jpg",
     "youtube": "https://www.youtube.com/watch?v=BZp4En9A3ec",
     "date": "2026-03-02",
     "tags": ["minecraft", "texture pack", "pvp", "showcase"]
   },
-  {
-    "id": "minecraft-night-vision",
-    "title": "Night Vision Pack for MCPE 1.21 || Direct Link ||",
-    "description": "Is video mein MCPE 1.21 ke liye best Night Vision Pack share kiya gaya hai. Is pack ki madad se aap raat ke andhere mein bhi sab kuch saaf dekh sakte hain [00:00:21]. Direct link description mein mil jayega.",
-    "category": "minecraft",
-    "thumbnail": "./assets/images/MNight-Vision.jpg",
-    "youtube": "https://www.youtube.com/watch?v=zGagm8gpVKo",
-    "date": "2024-06-22",
-    "tags": ["minecraft", "MCPE", "night vision", "pack", "tutorial"]
-  },
-  {
-    "id": "minecraft-spectator-mode",
-    "title": "Spectator Mode in Minecraft Bedrock | Any Version | Step by Step Tutorial Hindi",
-    "description": "Is video mein main aapko Minecraft Bedrock Edition mein Spectator Mode mein switch karne ke do easy tareeke dikhane wala hoon: pehla settings ki help se aur doosra simple commands se. Dono methods step by step explain kiye gaye hain [00:00:00].",
-    "category": "tutorials",
-    "thumbnail": "./assets/images/MSpectator-mode.jpg",
-    "youtube": "https://www.youtube.com/watch?v=H_vo7mIkV5M",
-    "date": "2026-03-02",
-    "tags": ["minecraft", "bedrock", "spectator mode", "tutorial", "hindi"]
-  },
-  {
-    "id": "redstone-tutorial",
-    "title": "Ultimate RedsBedwars Tutorial for Beginners",
-    "description": "Learn the fundamentals of redstone in this comprehensive tutorial. We'll cover basic circuits, logic gates, and build some simple but useful contraptions together. No prior redstone knowledge required!",
-    "category": "tutorials",
-    "thumbnail": "./assets/images/video-tutorial-1.jpg",
-    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "date": "2024-01-10",
-    "tags": ["redstone", "tutorial", "beginner", "circuits"]
-  },
-  {
+ {
     "id": "minecraft-sugarcane-farm",
     "title": "SugerCane Farm For MCPE || For ALL VERSION || Tutorial",
     "description": "Is video mein Minecraft Pocket Edition ke liye ek simple aur efficient Sugarcane Farm banane ka step-by-step tutorial diya gaya hai. Ye farm MCPE ke sabhi versions (1.20+) mein kaam karta hai.",
@@ -50,11 +20,51 @@
     "tags": ["minecraft", "MCPE", "sugarcane farm", "tutorial", "survival"]
   },
   {
+    "id": "minecraft-night-vision",
+    "title": "Night Vision Pack for MCPE 1.21 || Direct Link ||",
+    "description": "Is video mein MCPE 1.21 ke liye best Night Vision Pack share kiya gaya hai. Is pack ki madad se aap raat ke andhere mein bhi sab kuch saaf dekh sakte hain [00:00:21]. Direct link description mein mil jayega.",
+    "category": "minecraft",
+    "thumbnail": "/assets/images/MNight-Vision.jpg",
+    "youtube": "https://www.youtube.com/watch?v=zGagm8gpVKo",
+    "date": "2024-06-22",
+    "tags": ["minecraft", "MCPE", "night vision", "pack", "tutorial"]
+  },
+  {
+    "id": "minecraft-spectator-mode",
+    "title": "Spectator Mode in Minecraft Bedrock | Any Version | Step by Step Tutorial Hindi",
+    "description": "Is video mein main aapko Minecraft Bedrock Edition mein Spectator Mode mein switch karne ke do easy tareeke dikhane wala hoon: pehla settings ki help se aur doosra simple commands se. Dono methods step by step explain kiye gaye hain [00:00:00].",
+    "category": "tutorials",
+    "thumbnail": "/assets/images/MSpectator-mode.jpg",
+    "youtube": "https://www.youtube.com/watch?v=H_vo7mIkV5M",
+    "date": "2026-03-02",
+    "tags": ["minecraft", "bedrock", "spectator mode", "tutorial", "hindi"]
+  },
+  {
+    "id": "redstone-tutorial",
+    "title": "Ultimate RedsBedwars Tutorial for Beginners",
+    "description": "Learn the fundamentals of redstone in this comprehensive tutorial. We'll cover basic circuits, logic gates, and build some simple but useful contraptions together. No prior redstone knowledge required!",
+    "category": "tutorials",
+    "thumbnail": "/assets/images/video-tutorial-1.jpg",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-10",
+    "tags": ["redstone", "tutorial", "beginner", "circuits"]
+  },
+  {
+    "id": "minecraft-sugarcane-farm",
+    "title": "SugerCane Farm For MCPE || For ALL VERSION || Tutorial",
+    "description": "Is video mein Minecraft Pocket Edition ke liye ek simple aur efficient Sugarcane Farm banane ka step-by-step tutorial diya gaya hai. Ye farm MCPE ke sabhi versions (1.20+) mein kaam karta hai.",
+    "category": "minecraft",
+    "thumbnail": "/assets/images/C9rn9UdzNwc-SD.jpg",
+    "youtube": "https://www.youtube.com/watch?v=C9rn9UdzNwc",
+    "date": "2023-10-12",
+    "tags": ["minecraft", "MCPE", "sugarcane farm", "tutorial", "survival"]
+  },
+  {
     "id": "mod-showcase-cosmic",
     "title": "Cosmic Forge Mod Showcase - Amazing New Items!",
     "description": "Check out the incredible Cosmic Forge mod that adds magical weapons, tools, and blocks to Minecraft. This showcase covers all the new features and how to get started with the mod.",
     "category": "minecraft",
-    "thumbnail": "./assets/images/video-minecraft-2.jpg",
+    "thumbnail": "/assets/images/video-minecraft-2.jpg",
     "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "date": "2024-01-20",
     "tags": ["mods", "showcase", "cosmic-forge", "magic"]
