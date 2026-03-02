@@ -2,7 +2,7 @@
 
 A static, JSON-driven website for the gaming brand "The Antigle" by creator Mukund.
 
-## Quick Links
+# Quick Links
 
 - **Live Site**: [Deploy to Netlify to get your URL](#deploy-to-netlify)
 - **YouTube Channel**: [@Notgamingplayz](https://youtube.com/@notgamingplayz)
@@ -10,7 +10,7 @@ A static, JSON-driven website for the gaming brand "The Antigle" by creator Muku
 
 ---
 
-## Table of Contents
+# Table of Contents
 
 1. [Project Structure](#project-structure)
 2. [For Content Creators: Adding Content](#for-content-creators-adding-content)
