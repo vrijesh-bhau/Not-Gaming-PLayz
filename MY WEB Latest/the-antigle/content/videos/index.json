@@ -40,14 +40,14 @@
     "tags": ["redstone", "tutorial", "beginner", "circuits"]
   },
   {
-    "id": "diamond-mining-tips",
-    "title": "10 Tips to Find Diamonds Slower",
-    "description": "Easy to find diamonds? These 10 proven tips will help you locate diamonds more efficiently. From optimal Y-levels to branch mining techniques, I've got you covered!",
-    "category": "tips",
-    "thumbnail": "./assets/images/camp.png",
-    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "date": "2024-01-05",
-    "tags": ["diamonds", "mining", "tips", "survival"]
+    "id": "minecraft-sugarcane-farm",
+    "title": "SugerCane Farm For MCPE || For ALL VERSION || Tutorial",
+    "description": "Is video mein Minecraft Pocket Edition ke liye ek simple aur efficient Sugarcane Farm banane ka step-by-step tutorial diya gaya hai. Ye farm MCPE ke sabhi versions (1.20+) mein kaam karta hai.",
+    "category": "minecraft",
+    "thumbnail": "./assets/images/C9rn9UdzNwc-SD.jpg",
+    "youtube": "https://www.youtube.com/watch?v=C9rn9UdzNwc",
+    "date": "2023-10-12",
+    "tags": ["minecraft", "MCPE", "sugarcane farm", "tutorial", "survival"]
   },
   {
     "id": "mod-showcase-cosmic",
