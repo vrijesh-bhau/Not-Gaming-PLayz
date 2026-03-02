@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hd-texture-pack",
+    "title": "HD Enhanced Texture Pack",
+    "description": "Transform your Minecraft world with this high-definition texture pack. Features enhanced block textures, realistic lighting effects, and improved item details. Compatible with Minecraft 1.20+.",
+    "category": "gaming",
+    "thumbnail": "./assets/images/resource-gaming-1.jpg",
+    "file": "./assets/files/index.zip",
+    "external_link": "",
+    "download_type": "file",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-18",
+    "tags": ["texture-pack", "hd", "visuals", "minecraft"],
+    "note": ""
+  },
+  {
+    "id": "streaming-overlay-pack",
+    "title": "Pro Streaming Overlay Pack",
+    "description": "Professional streaming overlays for OBS Studio. Includes webcam frames, alert boxes, chat overlays, and transition screens. Fully customizable PSD files included.",
+    "category": "tools",
+    "thumbnail": "./assets/images/resource-tool-1.jpg",
+    "file": "",
+    "external_link": "https://example.com/streaming-pack",
+    "download_type": "external",
+    "youtube": "",
+    "date": "2024-01-12",
+    "tags": ["streaming", "obs", "overlay", "graphics"],
+    "note": "This resource is hosted externally. Click the button below to visit the original creator's page."
+  },
+  {
+    "id": "minecraft-building-guide",
+    "title": "Master Builder's Guide eBook",
+    "description": "A comprehensive guide to Minecraft building techniques. Covers architectural principles, block palettes, roof designs, interior decoration, and more. 50+ pages of building inspiration and tips.",
+    "category": "study",
+    "thumbnail": "./assets/images/resource-study-1.jpg",
+    "file": "./assets/files/building-guide.pdf",
+    "external_link": "",
+    "download_type": "file",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-08",
+    "tags": ["guide", "building", "ebook", "architecture"],
+    "note": ""
+  },
+  {
+    "id": "pvp-resource-pack",
+    "title": "PvP Optimized Resource Pack",
+    "description": "Low-fire, clear swords, and optimized textures designed specifically for PvP gameplay. Reduces visual clutter and improves FPS for competitive play.",
+    "category": "gaming",
+    "thumbnail": "./assets/images/video-tips-1.jpg",
+    "file": "",
+    "external_link": "https://example.com/pvp-pack",
+    "download_type": "external",
+    "youtube": "",
+    "date": "2024-01-03",
+    "tags": ["pvp", "resource-pack", "competitive", "fps"],
+    "note": "Original pack by PvP Masters. Visit their page for the latest version and updates."
+  }
+]

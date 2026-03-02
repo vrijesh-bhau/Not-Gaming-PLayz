@@ -1,0 +1,26 @@
+[
+  {
+    "id": "channel-milestone",
+    "title": "We Hit a Major Milestone!",
+    "date": "2024-01-25",
+    "summary": "Thank you all for helping The Antigle reach this incredible milestone of 1k subscribers. Here's what's coming next!",
+    "content": "<p>Hello everyone!</p><p>I am absolutely thrilled to announce that <strong>The Antigle</strong> has reached a major milestone! This wouldn't have been possible without your incredible support, engagement, and enthusiasm for the content.</p><h3>What's Next?</h3><p>With this milestone behind us, I'm excited to share what's coming in the near future:</p><ul><li><strong>More Tutorials:</strong> Expanded redstone and building tutorial series</li><li><strong>Live Streams:</strong> Regular live building sessions and Q&As</li><li><strong>Community Projects:</strong> Opportunities for viewers to participate in builds</li><li><strong>New Series:</strong> A brand new survival let's play starting next month</li></ul><p>Thank you for being part of this journey. The best is yet to come!</p><p>- Mukund</p>",
+    "featured_image": "./assets/images/update-1.jpg"
+  },
+  {
+    "id": "new-content-teaser",
+    "title": "Something Big is Coming...",
+    "date": "2024-01-20",
+    "summary": "Get ready for an exciting new series that will change everything. Can you guess what it is?",
+    "content": "<p>Hey everyone!</p><p>I've been working on something special behind the scenes, and I can't wait to share it with you all. This new project has been months in the making, and I think you're going to love it.</p><h3>Hints:</h3><ul><li>It involves a brand new world</li><li>There will be community participation</li><li>It's bigger than anything I've done before</li><li>The first episode drops soon!</li></ul><p>Stay tuned for the big reveal. Follow the channel and turn on notifications so you don't miss it!</p><p>Any guesses? Let me know in the comments!</p><p>- Mukund</p>",
+    "featured_image": "./assets/images/update-2.jpg"
+  },
+  {
+    "id": "website-launch",
+    "title": "Welcome to the New Website!",
+    "date": "2024-01-15",
+    "summary": "The Antigle now has its own home on the web! Explore resources, watch videos, and stay updated.",
+    "content": "<p>Welcome to the brand new <strong>The Antigle</strong> website!</p><p>This has been a long time coming, and I'm so excited to finally have a proper home for all things related to the channel. Here's what you can find here:</p><h3>Features:</h3><ul><li><strong>Videos Section:</strong> Browse all my YouTube videos with easy filtering</li><li><strong>Resources:</strong> Download texture packs, guides, and tools</li><li><strong>Updates:</strong> Stay informed about new content and announcements</li><li><strong>Dark/Light Mode:</strong> Choose your preferred theme</li></ul><p>The site is built to be fast, accessible, and easy to use. I'll be adding more features and resources over time, so check back often!</p><p>If you encounter any issues or have suggestions, feel free to reach out via the contact page.</p><p>Happy browsing!</p><p>- Mukund</p>",
+    "featured_image": "./assets/images/video-minecraft-1.jpg"
+  }
+]

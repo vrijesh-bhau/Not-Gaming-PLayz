@@ -1,0 +1,42 @@
+[
+  {
+    "id": "epic-survival-base",
+    "title": "My Base",
+    "description": "Mujhe join karo Mai build an incredible survival base from scratch! In this video, we'll go from a simple starter house to a fully functional fortress with farms, storage systems, and more. Perfect for beginners and experienced players alike.",
+    "category": "minecraft",
+    "thumbnail": "./assets/images/video-minecraft-1.jpg",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-15",
+    "tags": ["survival", "building", "base", "tutorial"]
+  },
+  {
+    "id": "redstone-tutorial",
+    "title": "Ultimate RedsBedwars Tutorial for Beginners",
+    "description": "Learn the fundamentals of redstone in this comprehensive tutorial. We'll cover basic circuits, logic gates, and build some simple but useful contraptions together. No prior redstone knowledge required!",
+    "category": "tutorials",
+    "thumbnail": "./assets/images/video-tutorial-1.jpg",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-10",
+    "tags": ["redstone", "tutorial", "beginner", "circuits"]
+  },
+  {
+    "id": "diamond-mining-tips",
+    "title": "10 Tips to Find Diamonds Slower",
+    "description": "Easy to find diamonds? These 10 proven tips will help you locate diamonds more efficiently. From optimal Y-levels to branch mining techniques, I've got you covered!",
+    "category": "tips",
+    "thumbnail": "./assets/images/camp.png",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-05",
+    "tags": ["diamonds", "mining", "tips", "survival"]
+  },
+  {
+    "id": "mod-showcase-cosmic",
+    "title": "Cosmic Forge Mod Showcase - Amazing New Items!",
+    "description": "Check out the incredible Cosmic Forge mod that adds magical weapons, tools, and blocks to Minecraft. This showcase covers all the new features and how to get started with the mod.",
+    "category": "minecraft",
+    "thumbnail": "./assets/images/video-minecraft-2.jpg",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "date": "2024-01-20",
+    "tags": ["mods", "showcase", "cosmic-forge", "magic"]
+  }
+]
