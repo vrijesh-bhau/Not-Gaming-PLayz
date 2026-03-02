@@ -10,6 +10,16 @@
     "tags": ["survival", "building", "base", "tutorial"]
   },
   {
+    "id": "minecraft-spectator-mode",
+    "title": "Spectator Mode in Minecraft Bedrock | Any Version | Step by Step Tutorial Hindi",
+    "description": "Is video mein main aapko Minecraft Bedrock Edition mein Spectator Mode mein switch karne ke do easy tareeke dikhane wala hoon: pehla settings ki help se aur doosra simple commands se. Dono methods step by step explain kiye gaye hain [00:00:00].",
+    "category": "tutorials",
+    "thumbnail": "./assets/images/MSpectator-mode.jpg",
+    "youtube": "https://www.youtube.com/watch?v=H_vo7mIkV5M",
+    "date": "2026-03-02",
+    "tags": ["minecraft", "bedrock", "spectator mode", "tutorial", "hindi"]
+  },
+  {
     "id": "redstone-tutorial",
     "title": "Ultimate RedsBedwars Tutorial for Beginners",
     "description": "Learn the fundamentals of redstone in this comprehensive tutorial. We'll cover basic circuits, logic gates, and build some simple but useful contraptions together. No prior redstone knowledge required!",
